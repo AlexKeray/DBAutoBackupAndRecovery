@@ -1,0 +1,5 @@
+schtasks /query /tn "KeroTask"
+
+schtasks /query /tn \
+
+schtasks /delete /tn "KeroTask" /f
